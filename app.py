@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # --- Configuration ---
-MODEL_PATH = r'C:\Users\patel\OneDrive\Desktop\FPR\models4\best_model_bs16.h5'  # path to your saved .h5 model
+MODEL_PATH = r'path_to_saved_model'  # path to your saved .h5 model
 IMAGE_SIZE = (128, 128)
 
 # Replace with your actual label mappings
