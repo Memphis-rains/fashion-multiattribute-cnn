@@ -1,0 +1,15 @@
+=== Classification Report: gender ===
+
+              precision    recall  f1-score   support
+
+         Men       0.81      0.95      0.88      2492
+       Women       0.89      0.82      0.85      2122
+        Boys       0.00      0.00      0.00        85
+       Girls       0.25      0.03      0.05        65
+      Unisex       0.64      0.36      0.46       236
+
+    accuracy                           0.84      5000
+   macro avg       0.52      0.43      0.45      5000
+weighted avg       0.82      0.84      0.82      5000
+
+Accuracy: 0.8374

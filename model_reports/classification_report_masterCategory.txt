@@ -1,0 +1,17 @@
+=== Classification Report: masterCategory ===
+
+                precision    recall  f1-score   support
+
+       Apparel       0.99      0.93      0.96      2436
+   Accessories       0.81      0.99      0.89      1233
+      Footwear       1.00      0.97      0.98      1069
+ Personal Care       0.95      0.72      0.82       246
+    Free Items       0.00      0.00      0.00        14
+Sporting Goods       0.00      0.00      0.00         1
+          Home       0.00      0.00      0.00         1
+
+      accuracy                           0.94      5000
+     macro avg       0.54      0.51      0.52      5000
+  weighted avg       0.94      0.94      0.94      5000
+
+Accuracy: 0.9366

@@ -1,0 +1,56 @@
+=== Classification Report: baseColour ===
+
+                   precision    recall  f1-score   support
+
+            Black       0.66      0.88      0.76      1049
+             Grey       0.53      0.34      0.42       303
+            Green       0.54      0.73      0.62       251
+        Navy Blue       0.57      0.13      0.21       194
+             Blue       0.55      0.81      0.65       553
+            White       0.69      0.68      0.68       679
+            Beige       0.24      0.35      0.29        79
+           Bronze       0.00      0.00      0.00        12
+            Brown       0.70      0.52      0.59       417
+           Copper       0.00      0.00      0.00         5
+             Pink       0.55      0.43      0.48       213
+        Off White       0.00      0.00      0.00        19
+           Maroon       0.09      0.02      0.03        58
+           Purple       0.71      0.34      0.46       177
+            Khaki       0.00      0.00      0.00        17
+           Silver       0.48      0.43      0.45       138
+           Orange       0.70      0.23      0.35        69
+     Coffee Brown       0.00      0.00      0.00         4
+              Red       0.46      0.85      0.60       248
+         Charcoal       0.00      0.00      0.00        16
+             Gold       0.22      0.41      0.29        68
+            Steel       0.00      0.00      0.00        33
+            Multi       0.00      0.00      0.00        42
+          Magenta       0.00      0.00      0.00        23
+        Sea Green       0.00      0.00      0.00         2
+            Cream       0.00      0.00      0.00        40
+           Yellow       0.50      0.73      0.59        84
+            Olive       0.33      0.05      0.08        42
+     Grey Melange       0.00      0.00      0.00        15
+             Teal       0.00      0.00      0.00         5
+         Burgundy       0.00      0.00      0.00         5
+            Peach       1.00      0.04      0.08        25
+             Rust       0.00      0.00      0.00         6
+             Skin       0.17      0.04      0.06        25
+   Turquoise Blue       0.00      0.00      0.00        10
+              Tan       0.00      0.00      0.00        15
+         Lavender       0.00      0.00      0.00        28
+         Metallic       0.00      0.00      0.00         5
+          Mustard       0.00      0.00      0.00        11
+            Mauve       0.00      0.00      0.00         5
+             Nude       0.00      0.00      0.00         6
+             Rose       0.00      0.00      0.00         1
+   Mushroom Brown       0.00      0.00      0.00         1
+            Taupe       0.00      0.00      0.00         1
+       Lime Green       0.00      0.00      0.00         0
+Fluorescent Green       0.00      0.00      0.00         1
+
+        micro avg       0.58      0.58      0.58      5000
+        macro avg       0.21      0.17      0.17      5000
+     weighted avg       0.55      0.58      0.54      5000
+
+Accuracy: 0.5826

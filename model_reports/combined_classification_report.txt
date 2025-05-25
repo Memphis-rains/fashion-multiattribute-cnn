@@ -1,0 +1,260 @@
+=== Combined Classification Report (Flattened) ===
+
+                                       precision    recall  f1-score   support
+
+                           gender_Men       0.85      0.94      0.89     10174
+                         gender_Women       0.89      0.82      0.85      6568
+                          gender_Boys       0.76      0.74      0.75      2343
+                         gender_Girls       0.81      0.62      0.70      1115
+                        gender_Unisex       0.76      0.83      0.79      1943
+               masterCategory_Apparel       0.64      0.71      0.67      1071
+           masterCategory_Accessories       0.60      0.54      0.57       260
+              masterCategory_Footwear       0.85      0.76      0.80       458
+         masterCategory_Personal Care       0.81      0.67      0.73       827
+            masterCategory_Free Items       0.46      0.57      0.51       209
+        masterCategory_Sporting Goods       0.58      0.67      0.62       406
+                  masterCategory_Home       0.89      0.35      0.51        68
+               subCategory_Bottomwear       0.52      0.33      0.41       135
+                  subCategory_Topwear       0.61      0.59      0.60       346
+                    subCategory_Socks       0.46      0.46      0.46       138
+                  subCategory_Watches       0.50      0.43      0.46       201
+                    subCategory_Shoes       0.60      0.17      0.26       185
+                    subCategory_Belts       0.50      0.90      0.65       297
+               subCategory_Flip Flops       0.52      0.74      0.61       360
+                     subCategory_Bags       0.90      0.38      0.53       298
+                subCategory_Innerwear       0.42      0.40      0.41       198
+         subCategory_Shoe Accessories       0.94      0.55      0.69       144
+                subCategory_Jewellery       0.52      0.46      0.48       101
+                     subCategory_Lips       0.38      0.59      0.46        87
+                    subCategory_Saree       0.73      0.80      0.76       189
+                subCategory_Fragrance       0.64      0.40      0.49       190
+                   subCategory_Sandal       0.51      0.54      0.53       123
+                    subCategory_Nails       0.38      0.30      0.34        86
+                    subCategory_Dress       0.00      0.00      0.00        23
+                  subCategory_Wallets       0.00      0.00      0.00         8
+                  subCategory_Eyewear       0.55      0.34      0.42        62
+                 subCategory_Headwear       0.50      0.08      0.14        50
+ subCategory_Loungewear and Nightwear       0.25      0.92      0.39       113
+                subCategory_Skin Care       0.17      0.04      0.06        26
+               subCategory_Free Gifts       0.18      0.26      0.22        38
+                 subCategory_Mufflers       1.00      0.48      0.65       128
+                     subCategory_Ties       0.08      0.01      0.02        77
+                   subCategory_Makeup       0.00      0.00      0.00         7
+              subCategory_Accessories       0.54      0.29      0.38        45
+                  subCategory_Scarves       0.74      0.45      0.56        38
+       subCategory_Beauty Accessories       0.44      0.75      0.55        52
+             subCategory_Water Bottle       0.62      0.57      0.59        53
+              subCategory_Apparel Set       1.00      0.50      0.67         4
+                     subCategory_Skin       0.70      0.98      0.82        84
+                     subCategory_Eyes       0.60      0.85      0.71        75
+       subCategory_Sports Accessories       0.00      0.00      0.00         9
+                subCategory_Cufflinks       0.00      0.00      0.00        13
+         subCategory_Sports Equipment       0.00      0.00      0.00        13
+                   subCategory_Stoles       0.00      0.00      0.00         2
+                   subCategory_Gloves       0.00      0.00      0.00        24
+                     subCategory_Hair       0.00      0.00      0.00        28
+                 subCategory_Perfumes       0.00      0.00      0.00         7
+          subCategory_Home Furnishing       0.00      0.00      0.00         4
+            subCategory_Bath and Body       0.78      0.30      0.44        23
+                subCategory_Umbrellas       0.00      0.00      0.00        11
+               subCategory_Wristbands       0.00      0.00      0.00         6
+                 subCategory_Vouchers       0.00      0.00      0.00        31
+              articleType_Track Pants       0.33      0.10      0.15        31
+                  articleType_Tshirts       0.00      0.00      0.00        13
+                   articleType_Shirts       0.00      0.00      0.00         3
+                    articleType_Socks       0.00      0.00      0.00         0
+                  articleType_Watches       0.64      0.60      0.62        15
+             articleType_Casual Shoes       0.00      0.00      0.00         3
+                    articleType_Belts       0.00      0.00      0.00         5
+               articleType_Flip Flops       0.82      1.00      0.90        31
+                 articleType_Handbags       0.00      0.00      0.00         6
+                     articleType_Tops       0.00      0.00      0.00         3
+                      articleType_Bra       0.00      0.00      0.00         0
+         articleType_Shoe Accessories       0.38      0.33      0.35         9
+              articleType_Sweatshirts       0.00      0.00      0.00         7
+             articleType_Formal Shoes       0.50      0.14      0.22         7
+                 articleType_Bracelet       1.00      0.06      0.12        16
+                 articleType_Lipstick       0.50      0.14      0.21        22
+                    articleType_Flats       0.00      0.00      0.00         2
+                   articleType_Kurtas       0.33      0.10      0.15        10
+                articleType_Waistcoat       0.00      0.00      0.00        24
+             articleType_Sports Shoes       1.00      0.67      0.80         6
+                   articleType_Shorts       0.00      0.00      0.00         1
+                   articleType_Briefs       0.00      0.00      0.00         5
+                   articleType_Sarees       0.69      0.27      0.39        33
+    articleType_Perfume and Body Mist       0.00      0.00      0.00         2
+                    articleType_Heels       0.00      0.00      0.00         7
+                  articleType_Sandals       0.00      0.00      0.00         3
+                  articleType_Pendant       1.00      0.80      0.89         5
+              articleType_Nail Polish       0.00      0.00      0.00         6
+               articleType_Laptop Bag       0.00      0.00      0.00         8
+              articleType_Rain Jacket       0.00      0.00      0.00         0
+                  articleType_Dresses       0.00      0.00      0.00         3
+                   articleType_Skirts       1.00      0.08      0.15        12
+                  articleType_Wallets       0.00      0.00      0.00         5
+                  articleType_Blazers       0.00      0.00      0.00         1
+                     articleType_Ring       0.00      0.00      0.00         3
+               articleType_Sunglasses       0.00      0.00      0.00         7
+                 articleType_Clutches       0.00      0.00      0.00         1
+                    articleType_Shrug       0.00      0.00      0.00         0
+                     articleType_Caps       0.00      0.00      0.00         5
+          articleType_Innerwear Vests       0.00      0.00      0.00         1
+                 articleType_Earrings       0.00      0.00      0.00         0
+                 articleType_Trousers       0.00      0.00      0.00         1
+                   articleType_Boxers       0.33      0.08      0.13        12
+                articleType_Backpacks       0.00      0.00      0.00         0
+                    articleType_Jeans       0.00      0.00      0.00         1
+            articleType_Jewellery Set       0.00      0.00      0.00         0
+                  articleType_Dupatta       0.00      0.00      0.00         0
+                   articleType_Capris       0.00      0.00      0.00         0
+                articleType_Bath Robe       0.00      0.00      0.00         0
+                   articleType_Tunics       0.17      0.17      0.17        12
+                  articleType_Jackets       0.00      0.00      0.00         2
+             articleType_Lounge Pants       0.00      0.00      0.00         2
+   articleType_Face Wash and Cleanser       0.22      0.82      0.35        11
+      articleType_Necklace and Chains       0.00      0.00      0.00         2
+               articleType_Duffel Bag       0.00      0.00      0.00         3
+           articleType_Sports Sandals       0.00      0.00      0.00         2
+                articleType_Deodorant       0.00      0.00      0.00         2
+                 articleType_Sweaters       0.00      0.00      0.00         0
+               articleType_Free Gifts       0.00      0.00      0.00         2
+               articleType_Tracksuits       0.00      0.00      0.00         4
+               articleType_Shoe Laces       0.00      0.00      0.00         1
+                    articleType_Trunk       0.00      0.00      0.00         1
+                 articleType_Mufflers       0.00      0.00      0.00         1
+                   articleType_Bangle       0.00      0.00      0.00         1
+                     articleType_Ties       0.00      0.00      0.00         3
+    articleType_Highlighter and Blush       0.00      0.00      0.00         0
+         articleType_Travel Accessory       0.00      0.00      0.00         1
+                 articleType_Lip Care       0.00      0.00      0.00         1
+                  articleType_Scarves       0.00      0.00      0.00         1
+            articleType_Messenger Bag       0.00      0.00      0.00         0
+                  articleType_Compact       0.00      0.00      0.00         1
+              articleType_Night suits       0.00      0.00      0.00         2
+                 articleType_Leggings       0.00      0.00      0.00         2
+                articleType_Eye Cream       0.00      0.00      0.00         0
+                articleType_Lip Gloss       0.00      0.00      0.00         1
+                   articleType_Kurtis       0.00      0.00      0.00         0
+       articleType_Accessory Gift Set       0.00      0.00      0.00         1
+         articleType_Beauty Accessory       0.00      0.00      0.00         0
+                 articleType_Jumpsuit       0.00      0.00      0.00         0
+               articleType_Nightdress       0.00      0.00      0.00         0
+             articleType_Water Bottle       0.00      0.00      0.00         1
+               articleType_Kurta Sets       0.00      0.00      0.00         0
+        articleType_Face Moisturisers       0.00      0.00      0.00         0
+               articleType_Suspenders       0.00      0.00      0.00         0
+             articleType_Mobile Pouch       0.00      0.00      0.00         0
+                articleType_Lip Liner       0.00      0.00      0.00         0
+                     articleType_Robe       0.00      0.00      0.00         0
+                articleType_Stockings       0.00      0.00      0.00         0
+       articleType_Kajal and Eyeliner       0.00      0.00      0.00         0
+                articleType_Eyeshadow       0.00      0.00      0.00         0
+                 articleType_Headband       0.00      0.00      0.00         0
+                  articleType_Patiala       0.00      0.00      0.00         0
+                articleType_Camisoles       0.00      0.00      0.00         0
+                   articleType_Tights       0.00      0.00      0.00         0
+           articleType_Lounge Tshirts       0.00      0.00      0.00         0
+       articleType_Fragrance Gift Set       0.00      0.00      0.00         0
+articleType_Face Scrub and Exfoliator       0.00      0.00      0.00         0
+            articleType_Lounge Shorts       0.00      0.00      0.00         0
+               articleType_Baby Dolls       0.00      0.00      0.00         0
+    articleType_Foundation and Primer       0.00      0.00      0.00         0
+               articleType_Wristbands       0.00      0.00      0.00         0
+       articleType_Salwar and Dupatta       0.00      0.00      0.00         0
+                 articleType_Swimwear       0.00      0.00      0.00         0
+            articleType_Tablet Sleeve       0.00      0.00      0.00         0
+       articleType_Ties and Cufflinks       0.00      0.00      0.00         0
+                articleType_Footballs       0.00      0.00      0.00         0
+                   articleType_Stoles       0.00      0.00      0.00         0
+                articleType_Shapewear       0.00      0.00      0.00         0
+                   articleType_Salwar       0.00      0.00      0.00         0
+                articleType_Cufflinks       0.00      0.00      0.00         0
+                articleType_Concealer       0.00      0.00      0.00         0
+                  articleType_Rompers       0.00      0.00      0.00         0
+                 articleType_Jeggings       0.00      0.00      0.00         0
+                   articleType_Gloves       0.00      0.00      0.00         0
+                articleType_Sunscreen       0.00      0.00      0.00         0
+                  articleType_Booties       0.00      0.00      0.00         0
+            articleType_Mask and Peel       0.00      0.00      0.00         0
+              articleType_Waist Pouch       0.00      0.00      0.00         0
+                articleType_Rucksacks       0.00      0.00      0.00         0
+              articleType_Basketballs       0.00      0.00      0.00         0
+              articleType_Hair Colour       0.00      0.00      0.00         0
+                 articleType_Churidar       0.00      0.00      0.00         0
+             articleType_Clothing Set       0.00      0.00      0.00         0
+                  articleType_Mascara       0.00      0.00      0.00         0
+            articleType_Nehru Jackets       0.00      0.00      0.00         0
+           articleType_Cushion Covers       0.00      0.00      0.00         0
+                articleType_Key chain       0.00      0.00      0.00         0
+                    articleType_Toner       0.00      0.00      0.00         0
+              articleType_Lip Plumper       0.00      0.00      0.00         0
+          articleType_Nail Essentials       0.00      0.00      0.00         0
+                articleType_Umbrellas       0.00      0.00      0.00         0
+       articleType_Face Serum and Gel       0.00      0.00      0.00         0
+              articleType_Body Lotion       0.00      0.00      0.00         0
+           articleType_Makeup Remover       0.00      0.00      0.00         0
+            articleType_Rain Trousers       0.00      0.00      0.00         0
+                      articleType_Hat       0.00      0.00      0.00         0
+              articleType_Trolley Bag       0.00      0.00      0.00         0
+            articleType_Lehenga Choli       0.00      0.00      0.00         0
+                     articleType_Ipad       0.00      0.00      0.00         0
+                     baseColour_Black       0.00      0.00      0.00         0
+                      baseColour_Grey       0.00      0.00      0.00         0
+                     baseColour_Green       0.00      0.00      0.00         0
+                 baseColour_Navy Blue       0.00      0.00      0.00         0
+                      baseColour_Blue       0.00      0.00      0.00         0
+                     baseColour_White       0.00      0.00      0.00         0
+                     baseColour_Beige       0.00      0.00      0.00         0
+                    baseColour_Bronze       0.00      0.00      0.00         0
+                     baseColour_Brown       0.00      0.00      0.00         0
+                    baseColour_Copper       0.00      0.00      0.00         0
+                      baseColour_Pink       0.00      0.00      0.00         0
+                 baseColour_Off White       0.00      0.00      0.00         0
+                    baseColour_Maroon       0.00      0.00      0.00         0
+                    baseColour_Purple       0.00      0.00      0.00         0
+                     baseColour_Khaki       0.00      0.00      0.00         0
+                    baseColour_Silver       0.00      0.00      0.00         0
+                    baseColour_Orange       0.00      0.00      0.00         0
+              baseColour_Coffee Brown       0.00      0.00      0.00         0
+                       baseColour_Red       0.00      0.00      0.00         0
+                  baseColour_Charcoal       0.00      0.00      0.00         0
+                      baseColour_Gold       0.00      0.00      0.00         0
+                     baseColour_Steel       0.00      0.00      0.00         0
+                     baseColour_Multi       0.00      0.00      0.00         0
+                   baseColour_Magenta       0.00      0.00      0.00         0
+                 baseColour_Sea Green       0.00      0.00      0.00         0
+                     baseColour_Cream       0.00      0.00      0.00         0
+                    baseColour_Yellow       0.00      0.00      0.00         0
+                     baseColour_Olive       0.00      0.00      0.00         0
+              baseColour_Grey Melange       0.00      0.00      0.00         0
+                      baseColour_Teal       0.00      0.00      0.00         0
+                  baseColour_Burgundy       0.00      0.00      0.00         0
+                     baseColour_Peach       0.00      0.00      0.00         0
+                      baseColour_Rust       0.00      0.00      0.00         0
+                      baseColour_Skin       0.00      0.00      0.00         0
+            baseColour_Turquoise Blue       0.00      0.00      0.00         0
+                       baseColour_Tan       0.00      0.00      0.00         0
+                  baseColour_Lavender       0.00      0.00      0.00         0
+                  baseColour_Metallic       0.00      0.00      0.00         0
+                   baseColour_Mustard       0.00      0.00      0.00         0
+                     baseColour_Mauve       0.00      0.00      0.00         0
+                      baseColour_Nude       0.00      0.00      0.00         0
+                      baseColour_Rose       0.00      0.00      0.00         0
+            baseColour_Mushroom Brown       0.00      0.00      0.00         0
+                     baseColour_Taupe       0.00      0.00      0.00         0
+                baseColour_Lime Green       0.00      0.00      0.00         0
+         baseColour_Fluorescent Green       0.00      0.00      0.00         0
+                         usage_Casual       0.00      0.00      0.00         0
+                         usage_Ethnic       0.00      0.00      0.00         0
+                         usage_Sports       0.00      0.00      0.00         0
+                         usage_Formal       0.00      0.00      0.00         0
+                   usage_Smart Casual       0.00      0.00      0.00         0
+                          usage_Party       0.00      0.00      0.00         0
+                         usage_Travel       0.00      0.00      0.00         0
+                           usage_Home       0.00      0.00      0.00         0
+
+                            micro avg       0.78      0.78      0.78     29969
+                            macro avg       0.14      0.11      0.12     29969
+                         weighted avg       0.78      0.78      0.77     29969
+
+Overall (flattened) accuracy: 0.7789

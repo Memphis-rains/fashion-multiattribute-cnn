@@ -1,0 +1,18 @@
+=== Classification Report: usage ===
+
+              precision    recall  f1-score   support
+
+      Casual       0.86      0.97      0.91      3871
+      Ethnic       0.94      0.74      0.83       329
+      Sports       0.96      0.20      0.33       501
+      Formal       0.62      0.74      0.67       257
+Smart Casual       0.00      0.00      0.00         6
+       Party       0.00      0.00      0.00         3
+      Travel       0.00      0.00      0.00         1
+        Home       0.00      0.00      0.00         1
+
+   micro avg       0.85      0.86      0.86      4969
+   macro avg       0.42      0.33      0.34      4969
+weighted avg       0.86      0.86      0.83      4969
+
+Accuracy: 0.8548

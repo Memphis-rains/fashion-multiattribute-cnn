@@ -1,0 +1,149 @@
+=== Classification Report: articleType ===
+
+                           precision    recall  f1-score   support
+
+              Track Pants       0.42      0.86      0.56        29
+                  Tshirts       0.94      0.53      0.68       831
+                   Shirts       0.47      0.95      0.63       364
+                    Socks       0.93      0.87      0.90        71
+                  Watches       0.96      0.85      0.90       282
+             Casual Shoes       0.55      0.81      0.65       313
+                    Belts       1.00      0.74      0.85        74
+               Flip Flops       0.88      0.55      0.67       106
+                 Handbags       0.91      0.82      0.86       189
+                     Tops       0.46      0.59      0.52       203
+                      Bra       0.77      0.92      0.84        60
+         Shoe Accessories       0.00      0.00      0.00         1
+              Sweatshirts       0.00      0.00      0.00        32
+             Formal Shoes       0.50      0.96      0.66        72
+                 Bracelet       0.09      0.56      0.16         9
+                 Lipstick       0.88      0.25      0.39        28
+                    Flats       0.00      0.00      0.00        61
+                   Kurtas       0.86      0.88      0.87       188
+                Waistcoat       0.00      0.00      0.00         0
+             Sports Shoes       0.96      0.38      0.55       248
+                   Shorts       0.76      0.54      0.63        71
+                   Briefs       0.94      0.78      0.85       101
+                   Sarees       0.56      1.00      0.72        45
+    Perfume and Body Mist       0.38      0.84      0.53        61
+                    Heels       0.71      0.77      0.74       157
+                  Sandals       0.64      0.68      0.66       106
+                  Pendant       0.20      0.04      0.06        26
+              Nail Polish       0.35      0.57      0.43        35
+               Laptop Bag       0.00      0.00      0.00         7
+              Rain Jacket       0.00      0.00      0.00         2
+                  Dresses       0.55      0.42      0.48        50
+                   Skirts       0.50      0.16      0.24        19
+                  Wallets       0.25      0.99      0.40       105
+                  Blazers       0.00      0.00      0.00         1
+                     Ring       0.05      0.06      0.05        17
+               Sunglasses       1.00      0.55      0.71       112
+                 Clutches       0.00      0.00      0.00        37
+                    Shrug       0.00      0.00      0.00         0
+                     Caps       0.57      0.39      0.46        33
+          Innerwear Vests       0.74      0.52      0.61        33
+                 Earrings       0.44      0.87      0.58        45
+                 Trousers       0.62      0.60      0.61        50
+                   Boxers       1.00      0.67      0.80         3
+                Backpacks       0.70      0.99      0.82        83
+                    Jeans       0.60      0.85      0.71        75
+            Jewellery Set       0.00      0.00      0.00         8
+                  Dupatta       0.00      0.00      0.00        13
+                   Capris       0.00      0.00      0.00        13
+                Bath Robe       0.00      0.00      0.00         2
+                   Tunics       0.00      0.00      0.00        24
+                  Jackets       0.00      0.00      0.00        28
+             Lounge Pants       0.00      0.00      0.00         7
+   Face Wash and Cleanser       0.00      0.00      0.00         4
+      Necklace and Chains       0.78      0.30      0.44        23
+               Duffel Bag       0.00      0.00      0.00        11
+           Sports Sandals       0.00      0.00      0.00         6
+                Deodorant       0.00      0.00      0.00        31
+                 Sweaters       0.33      0.10      0.15        31
+               Free Gifts       0.00      0.00      0.00        13
+               Tracksuits       0.00      0.00      0.00         3
+               Shoe Laces       0.00      0.00      0.00         0
+                    Trunk       0.64      0.60      0.62        15
+                 Mufflers       0.00      0.00      0.00         3
+                   Bangle       0.00      0.00      0.00         5
+                     Ties       0.82      1.00      0.90        31
+    Highlighter and Blush       0.00      0.00      0.00         6
+         Travel Accessory       0.00      0.00      0.00         3
+                 Lip Care       0.00      0.00      0.00         0
+                  Scarves       0.38      0.33      0.35         9
+            Messenger Bag       0.00      0.00      0.00         7
+                  Compact       0.50      0.14      0.22         7
+              Night suits       1.00      0.06      0.12        16
+                 Leggings       0.50      0.14      0.21        22
+                Eye Cream       0.00      0.00      0.00         2
+                Lip Gloss       0.33      0.10      0.15        10
+                   Kurtis       0.00      0.00      0.00        24
+       Accessory Gift Set       1.00      0.67      0.80         6
+         Beauty Accessory       0.00      0.00      0.00         1
+                 Jumpsuit       0.00      0.00      0.00         5
+               Nightdress       0.69      0.27      0.39        33
+             Water Bottle       0.00      0.00      0.00         2
+               Kurta Sets       0.00      0.00      0.00         7
+        Face Moisturisers       0.00      0.00      0.00         3
+               Suspenders       1.00      0.80      0.89         5
+             Mobile Pouch       0.00      0.00      0.00         6
+                Lip Liner       0.00      0.00      0.00         8
+                     Robe       0.00      0.00      0.00         0
+                Stockings       0.00      0.00      0.00         3
+       Kajal and Eyeliner       1.00      0.08      0.15        12
+                Eyeshadow       0.00      0.00      0.00         5
+                 Headband       0.00      0.00      0.00         1
+                  Patiala       0.00      0.00      0.00         3
+                Camisoles       0.00      0.00      0.00         7
+                   Tights       0.00      0.00      0.00         1
+           Lounge Tshirts       0.00      0.00      0.00         0
+       Fragrance Gift Set       0.00      0.00      0.00         5
+Face Scrub and Exfoliator       0.00      0.00      0.00         1
+            Lounge Shorts       0.00      0.00      0.00         0
+               Baby Dolls       0.00      0.00      0.00         1
+    Foundation and Primer       0.33      0.08      0.13        12
+               Wristbands       0.00      0.00      0.00         0
+       Salwar and Dupatta       0.00      0.00      0.00         1
+                 Swimwear       0.00      0.00      0.00         0
+            Tablet Sleeve       0.00      0.00      0.00         0
+       Ties and Cufflinks       0.00      0.00      0.00         0
+                Footballs       0.00      0.00      0.00         0
+                   Stoles       0.17      0.17      0.17        12
+                Shapewear       0.00      0.00      0.00         2
+                   Salwar       0.00      0.00      0.00         2
+                Cufflinks       0.22      0.82      0.35        11
+                Concealer       0.00      0.00      0.00         2
+                  Rompers       0.00      0.00      0.00         3
+                 Jeggings       0.00      0.00      0.00         2
+                   Gloves       0.00      0.00      0.00         2
+                Sunscreen       0.00      0.00      0.00         0
+                  Booties       0.00      0.00      0.00         2
+            Mask and Peel       0.00      0.00      0.00         4
+              Waist Pouch       0.00      0.00      0.00         1
+                Rucksacks       0.00      0.00      0.00         1
+              Basketballs       0.00      0.00      0.00         1
+              Hair Colour       0.00      0.00      0.00         1
+                 Churidar       0.00      0.00      0.00         3
+             Clothing Set       0.00      0.00      0.00         0
+                  Mascara       0.00      0.00      0.00         1
+            Nehru Jackets       0.00      0.00      0.00         1
+           Cushion Covers       0.00      0.00      0.00         1
+                Key chain       0.00      0.00      0.00         0
+                    Toner       0.00      0.00      0.00         1
+              Lip Plumper       0.00      0.00      0.00         2
+          Nail Essentials       0.00      0.00      0.00         2
+                Umbrellas       0.00      0.00      0.00         0
+       Face Serum and Gel       0.00      0.00      0.00         1
+              Body Lotion       0.00      0.00      0.00         0
+           Makeup Remover       0.00      0.00      0.00         1
+            Rain Trousers       0.00      0.00      0.00         0
+                      Hat       0.00      0.00      0.00         0
+              Trolley Bag       0.00      0.00      0.00         0
+            Lehenga Choli       0.00      0.00      0.00         1
+                     Ipad       0.00      0.00      0.00         0
+
+                micro avg       0.62      0.62      0.62      5000
+                macro avg       0.24      0.21      0.20      5000
+             weighted avg       0.67      0.62      0.60      5000
+
+Accuracy: 0.6200
